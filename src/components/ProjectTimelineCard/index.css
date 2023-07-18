@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.project-card {
+  width: 500px;
+  height: 400px;
+}
+
+.project-img {
+  width: 400px;
+  height: 250px;
+}
+
+.head-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.duration-section {
+  display: flex;
+  align-items: center;
+}
+.course-name {
+  font-family: 'roboto';
+  font-size: 20px;
+  color: #171f46;
+}
+.clock-img {
+  width: 12px;
+  height: 12px;
+  color: #171f46;
+}
+.clock-time {
+  font-family: 'roboto';
+  font-size: 12px;
+  font-weight: 400;
+  color: #171f46;
+  margin-left: 5px;
+}
+.course-description {
+  font-family: 'roboto';
+  font-size: 18px;
+  color: #171f46;
+}
+.link {
+  color: #0967d2;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
